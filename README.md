@@ -1,0 +1,1 @@
+This project is a part of The Odin Project online courses. The goal is to recreate the google homepage layout and front aspect without any functionality.
